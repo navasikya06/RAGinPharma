@@ -16,5 +16,7 @@ A few things to note:
   + Install dependencies with pip install -r requirements.txt
   + Run with streamlit run app/app.py
 
-!image image.png
+!image /image.png
+
+![image](image.png)
 
