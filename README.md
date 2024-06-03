@@ -10,6 +10,6 @@ A few things to note:
 - To use bitsandbytes quantization, a Nvidia GPU is required.
 - For using the local streamlit app:
   + Install dependencies with pip install -r requirements.txt
-  + Run with streamlit run app.py
+  + Run with streamlit run app/app.py
 
 This project is part of an attempt to create a solution for the Medical Affairs team in a pharmaceutical company. The team has to regularly create summaries of academic papers to send out to the business and also to doctors they are visiting. This tool can help save them a lot of time in the process of generating these summaries.
